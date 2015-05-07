@@ -14,9 +14,9 @@ presentation.
 
 Example:
 
-> Italy: Julius Caesar
-> France: DeGaul
-> USA: Jesse Wolgamott
+> Italy: Julius Caesar  
+> France: DeGaul  
+> USA: Jesse Wolgamott  
 
 
 * Napoleon, France
